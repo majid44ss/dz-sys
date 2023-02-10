@@ -1,0 +1,4 @@
+{
+    "prefix": "dz+",
+    "mongooseConnectionString": "mongodb+srv://c4clan3:c4clan3@c4clan3.ufkpd.mongodb.net/?retryWrites=true&w=majority"
+}
